@@ -66,4 +66,4 @@ Sou apaixonado por aprender e compartilhar conhecimento. Se você também atua e
 
 [](https://github.com/DaniloOliveiraQA/DaniloOliveiraQA#-contato)
 
- [![linkedin logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/danilodeoliveira0105/) [![gmail logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](https://github.com/DaniloOliveiraQA/blob/master/dan.oliver03@hotmail.com)
+ [![linkedin logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/danilodeoliveira0105/) [![gmail logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:dan.oliver03@hotmail.com)
